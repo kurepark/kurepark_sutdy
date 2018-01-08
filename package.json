@@ -1,0 +1,19 @@
+{
+  "name": "kurepark_study",
+  "version": "1.0.0",
+  "description": "[![Build Status](https://travis-ci.org/kurepark/kurepark_study.svg?branch=master)](https://travis-ci.org/kurepark/kurepark_study)",
+  "main": "123.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kurepark/kurepark_study.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kurepark/kurepark_study/issues"
+  },
+  "homepage": "https://github.com/kurepark/kurepark_study#readme"
+}
